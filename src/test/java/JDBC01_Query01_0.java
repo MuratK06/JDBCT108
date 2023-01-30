@@ -32,6 +32,6 @@ public class JDBC01_Query01_0 {
         con.close();
         veri.close();
 
-
+// mkfikjvenvk
     }
 }
